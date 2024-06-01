@@ -48,25 +48,25 @@ const Sidebar = () => {
     </nav>
     <ul>
         <li>
-            <a target='_blank' rel='noreferrer' href=''>
+            <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/ayushi-rathore-448a12259'>
                 <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
             </a>
         </li>
 
         <li>
-            <a target='_blank' rel='noreferrer' href=''>
+            <a target='_blank' rel='noreferrer' href='https://github.com/ayu-shiirathore'>
                 <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
             </a>
         </li>
 
         <li>
-            <a target='_blank' rel='noreferrer' href=''>
+            <a target='_blank' rel='noreferrer' href='https://leetcode.com/u/arathore22/'>
             <FontAwesomeIcon icon={faCodepen} color="#4d4d4e" />
             </a>
         </li>
 
         <li>
-            <a target='_blank' rel='noreferrer' href=''>
+            <a target='_blank' rel='noreferrer' href='https://www.instagram.com/ayushi___rathore/'>
                 <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
             </a>
         </li>

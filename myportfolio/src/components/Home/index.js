@@ -12,7 +12,7 @@ const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animation')
 
     const nameArray = ['y', 'u' , 's', 'h' ,'i']
-    const jobArray = ['s','o','f','t','w','a','r','e',' ','d','e','v','e','l','o','p','e','r','.']
+    const jobArray = ['S','o','f','t','w','a','r','e',' ','D','e','v','e','l','o','p','e','r','.']
  
     // useEffect(() => {
     //     return setTimeout(() => {
@@ -46,9 +46,10 @@ const Home = () => {
                 <br />
                 <AnimatedLetters letterClass ={letterClass}  strArray={jobArray} idx={22} />
                 </h1>
-                <h2>Frontend Developer / Javascript Expert / YOutuber</h2>
+                <h2>Web Develoment / Frontend Developer / DataScience</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
-                <Link to="/resume" className='flat-button'>RESUME</Link>
+                {/* <Link to="/resume" className='flat-button'>RESUME</Link> */}
+                <a href="https://drive.google.com/file/d/1pmVXNvqyaVZKmR8BIzCA8FATAUkLiGFl/view?usp=drive_link" className='flat-button' target="_blank" rel="noopener noreferrer">RESUME</a>
             </div>
             <Logo />
         </div>
