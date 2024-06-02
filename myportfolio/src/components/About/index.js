@@ -36,19 +36,16 @@ const About = () => {
             />
                 </h1>
                 <p>
-                I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+                Hey there! I'm Ayushi Rathore, currently a student at Thapar Institute of Engineering and Technology pursuing B.E. in Computer Engineering. Passionate about translating innovative ideas into captivating digital experiences, I'm on a journey to become a skilled software engineer, with a special focus on frontend web development.
           </p>
                 
                 <p>
-                I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+                My journey in web development has led me to learn languages such as HTML, CSS, and JavaScript. In addition to my front-end expertise, I am proficient in languages like C, C++, Java, and Python, and have experience with frameworks such as ReactJs.Currently, I am expanding my skill set by diving into the field of data science, aiming to blend my front-end development skills with data-driven insights to create more intelligent and responsive applications.
                 </p>
                 <p>
-                I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+                I am constantly seeking new challenges and opportunities to expand my knowledge and skills. If you're looking for a dedicated and innovative developer, I would love to connect and discuss how I can contribute to your projects.
                 </p>
+                <p>Feel free to explore my portfolio and connect with me on LinkedIn or GitHub. Let's create something amazing together!</p>
             </div>
 
             <div className='stage-cube-cont'>

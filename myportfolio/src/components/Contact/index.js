@@ -52,8 +52,7 @@ const Contact = () => {
                     </h1>
 
                     <p>
-                    I am interested in freelance opportunities - especially on ambitious
-            or large projects. However, if you have any other requests or
+                    I'm always eager to connect with fellow professionals, collaborators, and anyone who shares a passion for technology and innovation. Whether you have a project in mind, or just want to say hello, feel free to reach out. I'm open to discussing new opportunities, collaborative projects, and any exciting ideas you might have.However, if you have any other requests or
             questions, don't hesitate to contact me using below form either.
                     </p>
 
