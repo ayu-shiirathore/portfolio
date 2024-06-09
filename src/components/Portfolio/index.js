@@ -59,20 +59,24 @@ const Portfolio = () => {
                         </p>
                         <div className='projects-list'>
                             <div className='project-item'>
+                                <h3>Ease-Travel :</h3>
+                                <p>
+                                Ease-Travel is a comprehensive web application designed to enhance the travel planning experience.
+The application leverages various APIs and modern web technologies to provide users with real-time
+information about travel destinations, including maps, points of interest, and essential travel details.
+The Ease-Travel project was developed using React and Material-UI for the frontend, integrated with Google
+Maps API and Axios for real-time data fetching.
+                                </p>
+                            </div>
+                            <div className='project-item'>
                                 <h3>Online Flight Booking System :</h3>
                                 <p>
                                 Developed a front-end clone of a typical flight ticket booking website using HTML, CSS, and JavaScript. This project enhanced my skills in front-end web development, providing a user-friendly interface for browsing and selecting flights.
                                 </p>
                             </div>
-                            <div className='project-item'>
-                                <h3>Club Website:</h3>
-                                <p>
-                                Created a comprehensive website for our college club, showcasing its mission, events, and member activities. This project refined my skills in HTML, CSS, and JavaScript and deepened my understanding of website design principles and user experience.
-                                </p>
-                            </div>
                             <br />
                             <br />
-                            <br />
+                            {/* <br /> */}
                             <div className='project-item'>
                                 {/* <h3>Project 3:</h3> */}
                                 <p>

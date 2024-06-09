@@ -23,7 +23,7 @@ const Home = () => {
     useEffect(() => {
         const timeoutId = setTimeout(() => {
             setLetterClass('text-animate-hover');
-        }, 4000);
+        }, 1000);
 
         // Cleanup function to clear the timeout if the component unmounts
         return () => clearTimeout(timeoutId);
@@ -49,7 +49,7 @@ const Home = () => {
                 <h2>Web Develoment / Frontend Developer / DataScience</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
                 {/* <Link to="/resume" className='flat-button'>RESUME</Link> */}
-                <a href="https://drive.google.com/file/d/1pmVXNvqyaVZKmR8BIzCA8FATAUkLiGFl/view?usp=drive_link" className='flat-button' target="_blank" rel="noopener noreferrer">RESUME</a>
+                <a href="https://drive.google.com/file/d/1_UO5KGZe90Spg-EZzIjl8yCeECrGf_0T/view?usp=drive_link" className='flat-button' target="_blank" rel="noopener noreferrer">RESUME</a>
             </div>
             <Logo />
         </div>
