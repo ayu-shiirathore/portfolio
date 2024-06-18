@@ -69,9 +69,10 @@ Maps API and Axios for real-time data fetching.
                                 </p>
                             </div>
                             <div className='project-item'>
-                                <h3>Online Flight Booking System :</h3>
+                                <h3>Crop Recommendation System :</h3>
                                 <p>
-                                Developed a front-end clone of a typical flight ticket booking website using HTML, CSS, and JavaScript. This project enhanced my skills in front-end web development, providing a user-friendly interface for browsing and selecting flights.
+                                The Crop Recommendation System is a machine learning-based application that provides recommendations for suitable crops based on various environmental and soil conditions. It aims to assist farmers and agricultural professionals in making informed decisions about crop selection, optimizing yields, and maximizing profitability. Expected to improve crop yields by up to 20%.
+                                 Techstack Used : Python, Pandas, NumPy, Flask, HTML, CSS
                                 </p>
                             </div>
                             <br />
