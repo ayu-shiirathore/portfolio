@@ -36,11 +36,11 @@ const About = () => {
             />
                 </h1>
                 <p>
-                Hey there! I'm Ayushi Rathore, currently a student at Thapar Institute of Engineering and Technology pursuing B.E. in Computer Engineering. Passionate about translating innovative ideas into captivating digital experiences, I'm on a journey to become a skilled software engineer, with a special focus on frontend web development.
+                Hey there! I'm Ayushi Rathore, currently a student at Thapar Institute of Engineering and Technology pursuing B.E. in Computer Engineering. Passionate about translating innovative ideas into captivating digital experiences, I'm on a journey to become a skilled software engineer, with a special focus on Machine Learning.
           </p>
                 
                 <p>
-                My journey in web development has led me to learn languages such as HTML, CSS, and JavaScript. In addition to my front-end expertise, I am proficient in languages like C, C++, Java, and Python, and have experience with frameworks such as ReactJs.Currently, I am expanding my skill set by diving into the field of data science, aiming to blend my front-end development skills with data-driven insights to create more intelligent and responsive applications.
+                My journey in web development has led me to learn languages such as HTML, CSS, and JavaScript. In addition to my front-end expertise, I am proficient in languages like C, C++, Java, and Python, and have experience with frameworks such as ReactJs.Currently, I am expanding my skill set by diving into the field of Data Science, aiming to blend my front-end development skills with data-driven insights to create more intelligent and responsive applications.
                 </p>
                 <p>
                 I am constantly seeking new challenges and opportunities to expand my knowledge and skills. If you're looking for a dedicated and innovative developer, I would love to connect and discuss how I can contribute to your projects.
