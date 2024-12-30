@@ -49,7 +49,7 @@ const Home = () => {
                 <h2>Web Develoment / Frontend Developer / DataScience</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
                 {/* <Link to="/resume" className='flat-button'>RESUME</Link> */}
-                <a href="https://drive.google.com/file/d/1tfl49RTZpyQ5xnsPDfO2juWYk401vohK/view?usp=sharing" className='flat-button' target="_blank" rel="noopener noreferrer">RESUME</a>
+                <a href="https://drive.google.com/file/d/1uP2p6KmpbMf8UUe05NMeRMKn8DvxY1Ha/view?usp=sharing" className='flat-button' target="_blank" rel="noopener noreferrer">RESUME</a>
             </div>
             <Logo />
         </div>
