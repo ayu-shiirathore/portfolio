@@ -49,7 +49,7 @@ const Home = () => {
                 <h2>Web Develoment / Machine Learning / DataScience</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
                 {/* <Link to="/resume" className='flat-button'>RESUME</Link> */}
-                <a href="https://drive.google.com/file/d/1uVI-COwKbBiPSaiuctgBgECslaI7I4Ij/view?usp=sharing">RESUME</a>
+                <a href="https://drive.google.com/file/d/1uVI-COwKbBiPSaiuctgBgECslaI7I4Ij/view?usp=drive_link">RESUME</a>
             </div>
             <Logo />
         </div>
